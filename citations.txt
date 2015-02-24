@@ -1,0 +1,4 @@
+Textures done in gimp
+used tutorials from assignment links, Professor McCann's Code, and tutorials for the textures
+http://www.instructables.com/id/Make-a-simple-wooden-texture-in-The-Gimp/
+http://www.gimptalk.com/index.php?/topic/6601-tutorial-sheet-of-heavily-rusted-metal/
